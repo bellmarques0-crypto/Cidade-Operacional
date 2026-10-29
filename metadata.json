@@ -1,0 +1,6 @@
+{
+  "name": "Cidade Operacional 2D",
+  "description": "Planta interativa em formato de cidade operacional 2D com prédios de produtos, avenida central urbana, setor administrativo e visualização de posições de atendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
